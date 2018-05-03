@@ -1,0 +1,4 @@
+docs/
+pkg/
+*.tar.xz
+*.tar.xz.sig
